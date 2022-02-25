@@ -4,6 +4,5 @@
 
 - 🔭 Most of my days I'm working with Swift and screaming at Xcode to compile faster
 - 🌱 I’m currently learning SwiftUI and ReactJS
-- 👯 Looking to collaborate with cats
 - 🙉 When I'm not in the basement coding I enjoy weight lifting and tasting beer
 - 🙀 Dislikes include emojis
